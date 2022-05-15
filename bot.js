@@ -100,9 +100,9 @@ async function startLeon() {
     })    
 
     Leon.on('connecting', async () => {
-        console.log(`${chalk.green.bold('👻 Leon')}
+        console.log(`${chalk.green.bold('👻 Devil')}
 ${chalk.white.bold('💬 Version:')} ${chalk.red.bold(config.VERSION)}
-${chalk.blue.italic('👤 Made By TOXIC-DEVIL')}
+${chalk.blue.italic('👤 Made By DARK UMAR')}
 
 ${chalk.green.bold("🔄 Connecting...")}`);
     });
@@ -144,7 +144,7 @@ ${chalk.green.bold("🔄 Connecting...")}`);
         });
 
         console.log(
-            chalk.green.bold('🎉 LEON IS NOW ACTIVE IN YOUR ACCOUNT!')
+            chalk.green.bold('🎉 DEVIL IS NOW ACTIVE IN YOUR ACCOUNT!')
         );
        
          var startMsg = { en: "%2A%F0%9F%91%BB%20LEON%20IS%20NOW%20ACTIVE%2A", ml: "%2A%F0%9F%91%BB%20%E0%B4%B2%E0%B4%BF%E0%B4%AF%E0%B5%8B%E0%B5%BA%20%E0%B4%87%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8B%E0%B5%BE%20%E0%B4%B8%E0%B4%9C%E0%B5%80%E0%B4%B5%E0%B4%AE%E0%B4%BE%E0%B4%A3%E0%B5%8D%2A", id: "%2A%F0%9F%91%BB%20Leon%20sekarang%20aktif%2A" }
