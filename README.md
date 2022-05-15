@@ -21,7 +21,7 @@ $ pkg install git -y && pkg install nodejs -y && git clone https://github.com/TO
 
 ## 💫 Deploy & Run Devil💫
 
-[![Run on Repl.it](https://replit.com/@umarlegend/Devil-1)](https://replit.com/@TOXICDEVIL/Leon)
+[![Run on Repl.it](https://replit.com/@umarlegend/Devil-1)](https://replit.com/@umarlegend/Devil-1)
 
 [![Deploy-Devil](https://www.herokucdn.com/deploy/button.svg)](https://github.com/umarlegend/Devil)
 
