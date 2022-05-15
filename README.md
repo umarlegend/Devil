@@ -1,4 +1,4 @@
-## Leon
+## Devil
 **A Simple WhatsApp Bot.**
 
 ## ⚙️ Setup ⚙️
@@ -7,7 +7,7 @@
 ```
 $ pkg install git -y
 $ pkg install nodejs -y
-$ git clone https://github.com/TOXIC-DEVIL/Leon
+$ git clone https://github.com/umarlegend/Devil
 $ cd Leon
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -19,15 +19,15 @@ $ node index.js
 $ pkg install git -y && pkg install nodejs -y && git clone https://github.com/TOXIC-DEVIL/Leon && cd Leon && npm install @adiwajshing/baileys && npm install chalk && node index.js
 ```
 
-## 💫 Deploy & Run Leon 💫
+## 💫 Deploy & Run Devil💫
 
-[![Run on Repl.it](https://repl.it/badge/github/TOXIC-DEVIL/WhatsApp-Bot)](https://replit.com/@TOXICDEVIL/Leon)
+[![Run on Repl.it](https://replit.com/@umarlegend/Devil-1)](https://replit.com/@TOXICDEVIL/Leon)
 
-[![Deploy-Leon](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-DEVIL/Leon)
+[![Deploy-Devil](https://www.herokucdn.com/deploy/button.svg)](https://github.com/umarlegend/Devil)
 
-> [Leon Installation Tutorial](https://youtu.be/eZ3xhIWnuyY)
+> [Devil YouTube Installation Tutorial](https://www.youtube.com/c/UMARMODS)
 
-**Found a bug/glitch in bot? Or wanna feedback us? [`WhatsApp`](https://wa.me/919747867484?text=Hi)**
+**Found a bug/glitch in bot? Or wanna feedback us? [`WhatsApp`](https://wa.me/923165123719?text=Hi)**
 
 ## ⚠ Warning ⚠
 
@@ -45,18 +45,18 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact - 
 ```
-[`WhatsApp`](https://wa.me/919747867484?text=Hi)
+[`WhatsApp`](https://wa.me/9231651237194?text=Hi)
 
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
- [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |
+ [![DARK UMAR](https://github.com/DARK UMAR.png?size=100)](https://github.com/DARK UMAR) |
 ----|
-[TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)  | 
+[DARK UMAR](https://github.com/umarlegend)  | 
 Author: Developer, Base, Bug Fixes, Commits, Modules | 
 
 ## THANKS TO
 
-- **[Adiwajshing](https://github.com/Adiwajshing) for [`Baileys`](https://github.com/adiwajshing/Baileys)**
+- **[Adiwajshing](https://github.com/umarlegend) for [`Baileys`](https://github.com/adiwajshing/Baileys)**
 
 - **[TOXIC DEVIL](https://github.com/TOXIC-DEVIL) for [`TOXIC DEVIL API - FREE REST API`](https://api-toxic-devil.herokuapp.com/)**
 
