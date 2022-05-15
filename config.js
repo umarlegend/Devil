@@ -6,12 +6,12 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 
-DATABASE_URL = process.env.DATABASE_URL === undefined ? './leon.db' : process.env.DATABASE_URL;
+DATABASE_URL = process.env.DATABASE_URL === undefined ? './devil.db' : process.env.DATABASE_URL;
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 
 module.exports = {
     VERSION: 'V4',
-    SESSION: process.env.LEON_SESSION === undefined ? '' : process.env.LEON_SESSION,
+    SESSION: process.env.Devil_SESSION === undefined ? '' : process.env.Devil_SESSION,
     ALIVELOGO: process.env.ALIVE_LOGO === undefined ? 'default' : process.env.ALIVE_LOGO,
     ANTILINK: process.env.ANTI_LINK === undefined ? 'false' : process.env.ANTI_LINK,
     CHATMODE: process.env.CHAT_MODE === undefined ? 'false' : process.env.CHAT_MODE,
@@ -21,7 +21,7 @@ module.exports = {
     ERROR_ANALYZER: process.env.ERROR_ANALYZER === undefined ? 'true' : process.env.ERROR_ANALYZER,
     ANTIEMO: process.env.ANTI_EMOJI === undefined ? 'false' : process.env.ANTI_EMOJI,
     AUTOBIO: process.env.AUTO_BIO === undefined ? 'false' : process.env.AUTO_BIO,
-    OWNER: process.env.OWNER_NAME === undefined ? 'TOXIC DEVIL' : process.env.OWNER_NAME,
+    OWNER: process.env.OWNER_NAME === undefined ? 'DARK UMAR' : process.env.OWNER_NAME,
     OWNERNUM: process.env.OWNER_NUMBER === undefined ? '0' : process.env.OWNER_NUMBER,
     LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
